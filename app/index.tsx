@@ -1,10 +1,10 @@
+import Logo from "@/components/template/Logo";
 import Page from "@/components/template/Page";
-import { Text } from "react-native";
 
-export default function Index(){
+export default function Index() {
     return (
         <Page>
-            <Text style={{fontFamily: 'SOLARSPACEDEMO-Regular', color:'#fff'}}>Olá Mundo</Text>
+            <Logo />
         </Page>
     )
 }
