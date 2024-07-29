@@ -1,4 +1,4 @@
-import Question from "../interface/Question";
+import Question from "../interface/Question.interface";
 
 const questions: Question[] = [
   {
