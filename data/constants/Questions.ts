@@ -1,6 +1,6 @@
 import Question from "../interface/Question.interface";
 
-const questions: Question[] = [
+const AllQuestions: Question[] = [
   {
     id: 1,
     statement: "Qual é o planeta mais próximo do Sol?",
@@ -241,4 +241,4 @@ const questions: Question[] = [
   },
 ];
 
-export default questions;
+export default AllQuestions;
