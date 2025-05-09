@@ -12,6 +12,11 @@ Space Quiz é um aplicativo de perguntas e respostas sobre o espaço desenvolvid
 - **Expo:** Ferramenta para desenvolvimento e gerenciamento de projetos React Native.
 - **TypeScript:** Linguagem que adiciona tipagem estática ao JavaScript.
 
+
+## 🌌 Interfaces
+### Tela Inicial
+![Home](https://ik.imagekit.io/p0mm3nebo/spaceQuiz/Facebook%20cover%20-%201.jpg?updatedAt=1746788626456)
+
 ## Instalação
 1. Clone o Repositório
 ```bash
